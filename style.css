@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+#b1 {
+    background-color:red;
+}
+#b2 { 
+    background-color:blue;
+}
+#b3 {
+    background-color:green;
+} 
+#bmain {
+    background-color: yellow;
+}
+#b4 {
+    background-color: gray;
+}
+#b5 {
+    background-color:purple;
+}
