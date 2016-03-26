@@ -1,41 +1,35 @@
-* header{
-    background-color: grey;
+.header{
+    background-color: #c5d5cb;
     width: 900px;
     height: 100px;
     text-align: center; 
     padding-top: 30px;
     margin: 10px auto;
 }
-div {
+.div {
     width:900px;
     margin:10px auto; 
 }
-aside{ 
-    background-color:yellow;
+.aside{ 
+    background-color:#edd9c0;
     width:300px;
     height:300px;
     text-align:center;
     padding-top:30px;
     float: left;
 }
-main {
-    background-color:darkgrey ;
+.main {
+    background-color:#9fa8a3 ;
     height: 300px;
     text-align: center;
     padding-top: 30px;
 } 
-footer {
-    background-color: pink;
+.footer {
+    background-color: #b56969;
     width: 900px;
     height: 100px
     text-align: center;
     padding-top: 30px;
     margin: 10px auto;
     
-}
-#b4 {
-    background-color: gray;
-}
-#b5 {
-    background-color:purple;
 }
